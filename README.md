@@ -1,8 +1,10 @@
+<h1 align-"center"> Hello 👋🏻 I'm Alberto 👨🏻‍💻✨</h1>
+
 # 💫 About Me:
 👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br><br>📆 Last update: 14/06/2024
 
 
-## 🌐 Socials:
+## 🌐 More:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alberto-garcia-gomez) 
 
 # 💻 Tech Stack:
