@@ -5,7 +5,7 @@
 
 ## <h2>🌐 More:</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alberto-garcia-gomez) 
-![Static Badge](https://img.shields.io/badge/Curriculum-red?logo=readdotcv&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc%2Fview)
+<img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-red?logo=readdotcv&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc%2Fview">
 
 
 # <h2>💻 Tech Stack: </h2>
