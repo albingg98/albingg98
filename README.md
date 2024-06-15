@@ -28,7 +28,7 @@
         </div>
         <div align="center" dir="auto">
           <a <a href="https://github.com/albingg98/Flutter_MovieCatalog.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Flutter Movie Catalog" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"> </a>
-<p dir="auto"></p><p dir="auto">Esta aplicación esta desarrollada con el kit de Flutter usando VSC como editor. Utiliza la API de TheMovieDB para realizar peticiones http con el objetivo de mostrar las peliculas que están actualmente en cines.</p>
+<p dir="auto"></p><p dir="auto">This application is developed with the Flutter toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
         </div>
       </td>
       <td width="50%">
@@ -36,7 +36,7 @@
         </div>
         <div align="center" dir="auto">
           <a href="https://github.com/albingg98/Android_BeYourBest.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"></a>
-<p dir="auto"></p><p dir="auto">Aplicación desarrollada en Android Studio utilizando Kotlin. Implemento Firebase para hacer uso de sus servicios como “Authentication” y “Datebase”. También utilizo algoritmo de geolocalización.</p>
+<p dir="auto"></p><p dir="auto">Application developed in Android Studio using Kotlin. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
         </div>
       </td>
     </tr>
