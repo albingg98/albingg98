@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋🏻 I'm Alberto 👨🏻‍💻✨</h1>
 
 # <h2>😄 About Me:</h2>
-👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br><br>📆 Last update: 14/06/2024
+👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 14/06/2024
 
 ## <h2>🌐 More:</h2>
 <a href="https://www.linkedin.com/in/alberto-garcia-gomez"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
