@@ -61,7 +61,6 @@
 </td>
 
 <td width="50%">
-  <br>
 <h3 align="center">Kotlin Sport App</h3>
 <div align="center">                                       
 <a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App"></a>
@@ -72,8 +71,10 @@
 </a>
 </p>
 <p>Application developed in <Strong> Android Studio using Kotlin </Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
-</div>                                                             
-</table>                                                                                 
+</div>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -103,7 +104,8 @@
 </p>
 <p>"Shopping List" is a simple web application for managing shopping lists. It allows users to add and save list items interactively. The application is built using JavaScript, CSS, and HTML. You can access the application <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank"> <Strong> here </Strong></a>.</p>
 </div>                                                                                
-</td>  
+</td>
+</tr>
 </table>                                                                                 
 </div>
 <br>
