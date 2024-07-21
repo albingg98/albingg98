@@ -57,8 +57,7 @@
 </a>
 </p>
 <p>This application is developed with the <Strong> Flutter </Strong> toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>
 
 <td width="50%">
@@ -76,7 +75,6 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 <table>
 <tr>
@@ -91,9 +89,7 @@
 </a>
 </p>
 <p>Market is a web application developed with <Strong>Spring Boot</Strong> for managing inventory and online transactions. It includes customer management, orders, products, and purchases, using JPA for entity mapping and MySQL as the database.</p>
-
-</div>
-                                                                                      
+</div>                                                                                   
 </td>       
 
 <td width="50%">
@@ -107,9 +103,7 @@
 </a>
 </p>
 <p>"Shopping List" is a simple web application for managing shopping lists. It allows users to add and save list items interactively. The application is built using JavaScript, CSS, and HTML. You can access the application <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank"> <Strong> here </Strong></a>.</p>
-
-</div>
-                                                                                      
+</div>                                                                                
 </td>  
 </table>                                                                                 
 </div>
