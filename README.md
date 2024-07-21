@@ -3,10 +3,15 @@
 # <h2>😄 About Me:</h2>
 👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 14/06/2024
 
-## <h2>🌐 More:</h2>
-<a href="https://www.linkedin.com/in/alberto-garcia-gomez"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc/view"><img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-red?logo=readdotcv&logoColor=white"></a>
-
+## <b> <h2> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<br>
+<div align='left'>
+<ul>
+<li>
+<a href="https://www.linkedin.com/in/alberto-garcia-gomez" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
 
 # <h2>💻 Tech Stack: </h2>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
