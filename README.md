@@ -34,6 +34,7 @@
 <div align="center">
 <a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Flutter Movie Catalog App"></a>
 <p>
+  <br>
 <a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
@@ -49,6 +50,7 @@
 <a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App"></a>
 <br>
 <p>
+  <br>
 <a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
@@ -64,13 +66,14 @@
 <td width="50%">
 <h3 align="center">Spring Market App</h3>
 <div align="center">
-<a href="https://github.com/albingg98/market.git" target="_blank"><img src="[spring1](https://github.com/user-attachments/assets/c759c5af-2927-4a89-9aaa-7b3b26c2dbb4)" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/albingg98/market.git" target="_blank"><img src="https://github.com/user-attachments/assets/c759c5af-2927-4a89-9aaa-7b3b26c2dbb4" width="400" alt="Spring Market App"></a>
 <p>
+  <br>
 <a href="https://github.com/albingg98/market.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>![spring1](https://github.com/user-attachments/assets/c759c5af-2927-4a89-9aaa-7b3b26c2dbb4)
+<p>Market is a web application developed with <Strong>Spring Boot</Strong> for managing inventory and online transactions. It includes customer management, orders, products, and purchases, using JPA for entity mapping and MySQL as the database.</p>
 
 </div>
                                                                                       
@@ -81,6 +84,7 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
+  <br>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
