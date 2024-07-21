@@ -86,10 +86,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/ListaCompraJS.git" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Page Web-green?style=for-the-badge&color=#7E7B8F">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>"Shopping List" is a simple web application for managing shopping lists. It allows users to add and save list items interactively. The application is built using JavaScript, CSS, and HTML. You can access the application <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank"> <Strong> here </Strong></a>.</p>
