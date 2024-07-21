@@ -40,7 +40,24 @@
         </div>
       </td>
     </tr>
-
+    <tr>
+      <td width="50%">
+        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Flutter Movie Catalog</h3><a id="user-content-flutter-movie-catalog" class="anchor" aria-label="Permalink: Flutter Movie Catalog" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+        </div>
+        <div align="center" dir="auto">
+          <a <a href="https://github.com/albingg98/Flutter_MovieCatalog.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Flutter Movie Catalog" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"> </a>
+<p dir="auto"></p><p dir="auto">This application is developed with the Flutter toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Kotlin Sport App</h3><a id="user-content-kotlin-sport-app" class="anchor" aria-label="Permalink: Kotlin Sport App" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+        </div>
+        <div align="center" dir="auto">
+          <a href="https://github.com/albingg98/Android_BeYourBest.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"></a>
+<p dir="auto"></p><p dir="auto">Application developed in Android Studio using Kotlin. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
+        </div>
+      </td>
+    </tr>
   </tbody>
 </table>
 
