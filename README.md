@@ -32,7 +32,7 @@
 <td width="50%">
 <h3 align="center">Flutter Movie Catalog App</h3>
 <div align="center">
-<a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Flutter Movie Catalog App"></a>
+<a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Flutter Movie Catalog App"></a>
 <p>
 <a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -47,7 +47,7 @@
 <br>
 <h3 align="center">Kotlin Sport App</h3>
 <div align="center">                                       
-<a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Kotlin Sport App"></a>
+<a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App"></a>
 <br>
 <p>
 <a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank">
