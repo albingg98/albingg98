@@ -28,46 +28,74 @@
 
 # <h2>👁‍🗨 Proyects: </h2>
 <table>
-  <tbody>
-    <tr>
-      <td width="50%">
-        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Flutter Movie Catalog</h3><a id="user-content-flutter-movie-catalog" class="anchor" aria-label="Permalink: Flutter Movie Catalog" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-        </div>
-        <div align="center" dir="auto">
-          <a <a href="https://github.com/albingg98/Flutter_MovieCatalog.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Flutter Movie Catalog" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"> </a>
-<p dir="auto"></p><p dir="auto">This application is developed with the Flutter toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Kotlin Sport App</h3><a id="user-content-kotlin-sport-app" class="anchor" aria-label="Permalink: Kotlin Sport App" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-        </div>
-        <div align="center" dir="auto">
-          <a href="https://github.com/albingg98/Android_BeYourBest.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"></a>
-<p dir="auto"></p><p dir="auto">Application developed in Android Studio using Kotlin. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Market App</h3><a id="user-content-market-app" class="anchor" aria-label="Permalink: Market App" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-        </div>
-        <div align="center" dir="auto">
-          <a <a href="https://github.com/albingg98/market.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/c1ccc432-ac85-40a0-b466-ca9325553829" width="400" alt="Market App" data-canonical-src="![Market](https://github.com/user-attachments/assets/9d8b21a6-c7c8-40bd-9a70-2b35811c0a6c)
-" style="max-width: 100%;"> </a>
-<p dir="auto"></p><p dir="auto">Market is a web application developed with Spring Boot for managing inventory and online transactions. It includes customer management, orders, products, and purchases, using JPA for entity mapping and MySQL as the database.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Kotlin Sport App</h3><a id="user-content-kotlin-sport-app" class="anchor" aria-label="Permalink: Kotlin Sport App" href="#app-catalog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
-        </div>
-        <div align="center" dir="auto">
-          <a href="https://github.com/albingg98/Android_BeYourBest.git"><img src="https://github.com/albingg98/albingg98/assets/77321072/df6b3978-0d7d-4957-ab8d-28f7354f64cd" width="400" alt="Kotlin Sport App" data-canonical-src="https://i.imgur.com/7uCBigG.jpg" style="max-width: 100%;"></a>
-<p dir="auto"></p><p dir="auto">Application developed in Android Studio using Kotlin. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
-        </div>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<tr>
+<td width="50%">
+<h3 align="center">Flutter Movie Catalog App</h3>
+<div align="center">
+<a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Flutter Movie Catalog App"></a>
+<p>
+<a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>This application is developed with the <Strong> Flutter </Strong> toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">Kotlin Sport App</h3>
+<div align="center">                                       
+<a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Kotlin Sport App"></a>
+<br>
+<p>
+<a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Application developed in <Strong> Android Studio using Kotlin </Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Spring Market App</h3>
+<div align="center">
+<a href="https://github.com/albingg98/market.git" target="_blank"><img src="[spring1](https://github.com/user-attachments/assets/c759c5af-2927-4a89-9aaa-7b3b26c2dbb4)" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/albingg98/market.git" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>![spring1](https://github.com/user-attachments/assets/c759c5af-2927-4a89-9aaa-7b3b26c2dbb4)
+
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Algo</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+</div>
+                                                                                      
+</td>  
+</table>                                                                                 
+</div>
+<br>
 
 # <h2>📊 GitHub Stats:</h2>
 ![](https://github-readme-stats.vercel.app/api?username=albingg98&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
