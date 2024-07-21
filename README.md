@@ -70,7 +70,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/market.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Market is a web application developed with <Strong>Spring Boot</Strong> for managing inventory and online transactions. It includes customer management, orders, products, and purchases, using JPA for entity mapping and MySQL as the database.</p>
@@ -86,7 +86,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/ListaCompraJS.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-Page Web-green?style=for-the-badge&color=ff00f4">
