@@ -73,7 +73,6 @@
 <p>Application developed in <Strong> Android Studio using Kotlin </Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
 </div>                                                             
 </table>                                                                                 
-</div>
 
 <table>
 <tr>
