@@ -36,7 +36,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/Flutter_MovieCatalog.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>This application is developed with the <Strong> Flutter </Strong> toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
@@ -52,7 +52,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/Android_BeYourBest.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 </p>Application developed in <Strong> Android Studio using Kotlin </Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
@@ -70,7 +70,7 @@
 <p>
   <br>
 <a href="https://github.com/albingg98/market.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Market is a web application developed with <Strong>Spring Boot</Strong> for managing inventory and online transactions. It includes customer management, orders, products, and purchases, using JPA for entity mapping and MySQL as the database.</p>
@@ -89,10 +89,10 @@
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-Page Web-green?style=for-the-badge&color=ff00f4">
+<img src="https://img.shields.io/badge/-Page Web-green?style=for-the-badge&color=#7E7B8F">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>"Shopping List" is a simple web application for managing shopping lists. It allows users to add and save list items interactively. The application is built using JavaScript, CSS, and HTML. You can access the application <a href="https://silly-ardinghelli-affa9f.netlify.app/" target="_blank"> <Strong> here </Strong></a>.</p>
 
 </div>
                                                                                       
