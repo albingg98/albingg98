@@ -1,4 +1,4 @@
-<h1 align="center"> Hello 👋🏻 I'm Alberto 👨🏻‍💻✨</h1>
+<h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Alberto 👨🏻‍💻✨</h1>
 
 # <h2>😄 About Me:</h2>
 👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br> More: <a href="https://drive.google.com/file/d/1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc/view"><img alt="Static Badge" src="https://img.shields.io/badge/Curriculum-red?logo=readdotcv&logoColor=white"></a><br>📆 Last update: 14/06/2024
