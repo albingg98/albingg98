@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This application is developed with the <Strong> Flutter </Strong> toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
+<p>This application is developed with the<Strong>Flutter</Strong>toolkit using VSC as the editor. It uses TheMovieDB API to make HTTP requests to display the movies currently in theaters.</p>
 </div>                                                                                 
 </td>
 
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Application developed in <Strong> Android Studio using Kotlin </Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
+<p>Application developed in<Strong>Android Studio using Kotlin</Strong>. I implemented Firebase to use its services such as Authentication and Database. I also used a geolocation algorithm.</p>
 </div>
 </td>
 </tr>
