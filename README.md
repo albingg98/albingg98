@@ -4,7 +4,7 @@
 # <h2>😄 About Me:</h2>
 👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 23/07/2024
 
-## <b> <h2> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+## <b> <h2> Let's Connect..! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
   <br>
 <div align='left'>
 <ul>
