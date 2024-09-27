@@ -4,7 +4,7 @@
 # <h2>😄 About Me:</h2>
 👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 23/07/2024
 
-## <h2> Let's Connect..! <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+## <h2> Let's Connect..! 🤝🏻</h2>
   <br>
 <div align='left'>
 <ul>
@@ -21,7 +21,7 @@
 </li>
    <br>
 <li>
-<a href="https://drive.google.com/file/d/1A4EKtOlDkg5bmNnCKI9L9Kp3TxZIdOPc/view" target="_blank">
+<a href="https://drive.google.com/file/d/1rZrifIsSm1ZDnzvi9NqFLI5Xk9264pKq/view" target="_blank">
 <img src="https://img.shields.io/badge/curriculum-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
