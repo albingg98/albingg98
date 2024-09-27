@@ -2,7 +2,7 @@
 <h1 align="center"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Alberto 👨🏻‍💻✨</h1>
 
 # <h2>😄 About Me:</h2>
-👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 23/07/2024
+👨🏻‍🎓 Higher Technician in Multiplatform Application Development<br>📚 I am mastering my skills as a Java Developer with the Spring Boot stack<br>🔍 Actively Seeking Employment<br>🦾 Responsible and hardworking individual<br><br>📆 Last update: 23/07/2024
 
 ## <h2> Let's Connect..! 🤝🏻</h2>
   <br>
