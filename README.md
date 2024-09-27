@@ -37,8 +37,8 @@
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
 | **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 | **Development Tools** | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| **IA Generativa** | ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-5D3FD3?style=for-the-badge&logo=ai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67C?style=for-the-badge&logo=openai&logoColor=white) ![WebSim](https://img.shields.io/badge/WebSim-005f69?style=for-the-badge&logo=ai&logoColor=white) |
-| **Otros** | ![Microservices](https://img.shields.io/badge/Microservices-FFCA28?style=for-the-badge&logo=microservices&logoColor=black) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005f69?style=for-the-badge&logo=api&logoColor=white)|
+| **Generative AI** | ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-5D3FD3?style=for-the-badge&logo=ai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67C?style=for-the-badge&logo=openai&logoColor=white) ![WebSim](https://img.shields.io/badge/WebSim-005f69?style=for-the-badge&logo=ai&logoColor=white) |
+| **Methodologies** | ![Microservices](https://img.shields.io/badge/Microservices-FFCA28?style=for-the-badge&logo=microservices&logoColor=black) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005f69?style=for-the-badge&logo=api&logoColor=white)|
 | | |
 
 # <h2>👁‍🗨 Proyects: </h2>
