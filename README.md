@@ -21,7 +21,7 @@
 </li>
    <br>
 <li>
-<a href="https://drive.google.com/file/d/1rZrifIsSm1ZDnzvi9NqFLI5Xk9264pKq/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1qFp3XPv3R4tbofeqqsXhoTJw9SgWYkyv/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/curriculum-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
